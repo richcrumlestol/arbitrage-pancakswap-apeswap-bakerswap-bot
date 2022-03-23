@@ -10,6 +10,7 @@ https://metamask.io/
 
 Then you need to make sure it's configured for the bnb smartchain 
 https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+
 Then go to 
 http://remix.ethereum.org
 
